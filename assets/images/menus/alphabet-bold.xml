@@ -154,4 +154,8 @@
 	<SubTexture name="' bold0001" x="771" y="214" width="23" height="26"/>
 	<SubTexture name="' bold0002" x="794" y="214" width="23" height="26"/>
 	<SubTexture name="' bold0003" x="794" y="214" width="23" height="26"/>
+	<SubTexture name=", bold0000" x="771" y="214" width="23" height="26" frameY="-39" frameHeight="65"/>
+	<SubTexture name=", bold0001" x="771" y="214" width="23" height="26" frameY="-39" frameHeight="65"/>
+	<SubTexture name=", bold0002" x="794" y="214" width="23" height="26" frameY="-39" frameHeight="65"/>
+	<SubTexture name=", bold0003" x="794" y="214" width="23" height="26" frameY="-39" frameHeight="65"/>
 </TextureAtlas>
